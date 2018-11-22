@@ -3,7 +3,7 @@ body{background-color: #0c1d29;background-size:cover;font-family: 'Ubuntu', sans
 h1,h2,h3,h5,h6,strong{font-size:14px;margin-bottom:0;font-family: 'Ubuntu', sans-serif;;display: inline;}
 h4{font-size:14px;margin:1;font-family: 'Ubuntu', sans-serif; font-weight: bold;;display: inline; text-transform: capitalize;}
 
-.compz{ font-weight: bold;line-height: 30px ; text-align: center;
+.compz{ font-weight: bold;line-height: 18px ; text-align: center;
   background: #f09433; 
 background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
 background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
