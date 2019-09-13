@@ -8,5 +8,5 @@ font-weight: bold;line-height: 22px ; text-align: center;
 background: rgba(33, 103, 212, 0.49);
   }
 
-.clock-container{height: 39px; width: 116px; margin: auto;margin-top: 13px;}
+.clock-container{height: 40px; width: 120px; margin: auto;margin-top: 14px;}
 .sct_count{height: 19px; vertical-align: middle; overflow: hidden;}
